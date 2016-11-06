@@ -401,21 +401,19 @@ body >header a {
 }
 #textlogo h1.site-name {
   display: inline;
-/*font-family font-custom-family*/
-  font-family: "Hiragino Sans GB", "微软雅黑", "STXihei", Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-  font-size: 205%;
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-size: 165%;
+  line-height: 1.9;
+  font-weight: normal;
 }
 @media only screen and (min-width: 768px) {
   #textlogo h1.site-name {
-    font-size: 245%;
+    font-size: 195%;
   }
 }
 @media only screen and (min-width: 1024px) {
   #textlogo h1.site-name {
-    font-size: 215%;
+    font-size: 225%;
   }
 }
 #textlogo h2.blog-motto {
@@ -1746,7 +1744,7 @@ section.comment {
   width: 6.875em;
   height: 6.875em;
   margin: 0 auto;
-  background: no-repeat url("../img/bb.png") left top;
+  background: no-repeat url("../") left top;
   -webkit-background-size: 6.875em 6.875em;
   -moz-background-size: 6.875em 6.875em;
   background-size: 6.875em 6.875em;
@@ -1783,11 +1781,8 @@ section.comment {
   }
 }
 .info-logo {
-  font-family: "covered_by_your_graceregular";
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-size: 155%;
-  line-height: 1.3em;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  line-height: 1.65;
   width: 90%;
   margin: 0 auto;
   color: #fff;
@@ -1941,10 +1936,8 @@ footer {
   }
 }
 .copyright {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-family: "covered_by_your_graceregular";
-  font-size: 0.9em;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-size: 0.6em;
   width: 100%;
   color: #fff;
   text-align: center;
