@@ -1,4 +1,4 @@
-html {max-width:1200px; margin:0 auto; position:relative; background-color:#eee;}
+html {max-width:1200px; margin:0 auto; position:relative; background-image:url(master.png);}
 h1, h2, h3, h4, h5, h6, p, ul, ol, li, td {font-family: "Liberation Sans", "DejaVu Sans", "Droid Sans", "Helvetica Neue", Helvetica, "Segoe UI", Tahoma, Arial, sans-serif;}
 code, pre {font-family:"Liberation Mono", "DejaVu Sans Mono", "Droid Sans Mono", "Monaco", "Menlo", "Consolas", "Lucida Console", "Courier New", monospace;}
 blockquote {margin-left:16px; padding-left:16px; border-left: 10px solid #ddd;}
